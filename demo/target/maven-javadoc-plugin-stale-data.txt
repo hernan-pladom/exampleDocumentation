@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--class-path
+'/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/classes:/home/jibs/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/home/jibs/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/src/main/java:/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/src/main/java = 1733851595096
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/generated-sources/annotations = 1733853474543
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/element-list = 1733853605823
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/search.html = 1733853605853
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/package-search-index.js = 1733853605846
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/overview-tree.html = 1733853605839
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/type-search-index.js = 1733853605849
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/tag-search-index.js = 1733853605849
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/index-all.html = 1733853605853
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/member-search-index.js = 1733853605849
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/allpackages-index.html = 1733853605846
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/index.html = 1733853605853
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/help-doc.html = 1733853605856
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/allclasses-index.html = 1733853605846
+/home/jibs/Documents/year2/prograIII/Programacion-III/Semana13/demo/target/site/apidocs/module-search-index.js = 1733853605846
